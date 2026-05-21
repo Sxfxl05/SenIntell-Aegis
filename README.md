@@ -2,7 +2,6 @@
 
 <p align="center">
   <img width="1223" height="768" alt="Gemini_Generated_Image_7d9q5w7d9q5w7d9q" src="https://github.com/user-attachments/assets/f353cc0e-5c61-4c28-8aeb-a05d0c590d30" />
-" alt="SenIntell Aegis Logo" width="550"/>
 </p>
 
 <p align="center">
