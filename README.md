@@ -1,7 +1,7 @@
 # SenIntell Aegis
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sxfxl05/SenIntell-Aegis/main/logo.jpg" alt="SenIntell Aegis Logo" width="250"/>
+  <img src="./Gemini_Generated_Image_7d9q5w7d9q5w7d9q.jpg" alt="SenIntell Aegis Logo" width="550"/>
 </p>
 
 <p align="center">
